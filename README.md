@@ -1,4 +1,4 @@
-# CloneInstagram
+# Music Player
 
 ## Build Setup
 
